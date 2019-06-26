@@ -88,7 +88,10 @@
 			<button type="submit" class="btn btn-primary" name="save" >Save</button><?php endif; ?>
 		</div>
 		</form>
+	
 	</div>
 </div>
+<div></div>
 </body>
 </html>
+
